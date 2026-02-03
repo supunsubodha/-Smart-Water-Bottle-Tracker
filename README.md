@@ -33,6 +33,7 @@ cd water-bottle-tracker
 
 Compile the files:
 javac Main.java WaterBottleTracker.java
+
 Run the application:
 java Main
 
